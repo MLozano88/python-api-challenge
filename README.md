@@ -38,4 +38,4 @@ This script uses jupyter-gmaps and the Google Places API to create a humidity he
 # Technologies 
 _____________________________________________________________________________________________________
 
-This challenge is completed with Python 3.8.3.
+This challenge is completed with Python 3.8.5.
